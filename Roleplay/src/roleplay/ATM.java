@@ -13,7 +13,6 @@ import java.util.*;  //import random
 import java.math.*;
 
 /**
- *
  * @author Tim Barber
  */
 //create a random object
